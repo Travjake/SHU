@@ -1,0 +1,2 @@
+C:\Users\travi\source\repos\C++ Introduction MiniApps2\Debug\C++ Introduction MiniApps2.exe
+C:\Users\travi\source\repos\C++ Introduction MiniApps2\Debug\C++ Introduction MiniApps2.pdb
